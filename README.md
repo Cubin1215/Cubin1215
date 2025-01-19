@@ -1,5 +1,10 @@
-## Hi there 👋
+### Hi there 👋 My name is Pranav Azad
 
+I am a student at Dickinson College college doing double major in Data analytics and Computer Science and a minor in Mathematics.
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
 <!--
 **Cubin1215/Cubin1215** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
