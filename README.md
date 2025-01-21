@@ -1,8 +1,10 @@
 ### Hi there 👋 My name is Pranav Azad
 
-I am a student at Dickinson College college doing double major in Data analytics and Computer Science and a minor in Mathematics.
+I am a student at Dickinson College doing a double major in Data Analytics and Computer Science and a minor in Mathematics.
 
-- 🔭 I’m currently working on building project using Excel and Sql.
+Skills: Python, Pandas, Numpy, Seaborn, Matplotlib, SQL, Excel, R, Tableau and Java.
+
+- 🔭 I’m currently working on building a project using Excel and SQL.
 - 🌱 I’m currently learning Power BI.
 - 👯 I’m looking to collaborate on data analytics or machine learning projects
 <!--
