@@ -1,12 +1,12 @@
 ### Hi there 👋 My name is Pranav Azad
 
-I am a student at Dickinson College doing a double major in Data Analytics and Computer Science and a minor in Mathematics.
+I am a student at Dickinson College doing a double major in Data Analytics and Computer Science and a minor in Mathematics. I am currently doing a research under the guidance of Prof. Eren Bilen, an assitant Data Analytics professor at Dickinson college, on building an AI to mimick human solving nature of Rubik's cube. I am a competitive person who is learning data analytics and moving more towards data science. I am done with multivariable calculus, Data systems for data analytics, introduction to data science, object oriented programming and Large scale open source software development courses in the college. I am currently taking statistics and probability, computing abstractions,linear algebra and Macroeconomics. 
 
-Skills: Python, Pandas, Numpy, Seaborn, Matplotlib, SQL, Excel, R, Tableau and Java.
+- 👨🏻‍💻Languages: Python, SQL, R, Java, Javascript
+- 🖲Related libraries and frameworks: Pandas, Numpy, Seaborn, Matplotlib, and Tkinter
+- 🔈Related applications: Microsoft Excel, Tableau , Power BI, Docker, MySQL, Jupyter Notebook, Linux, R Studio, Visual Studio Code, Eclipse, Pycharm
 
-- 🔭 I’m currently working on building a project using Excel and SQL.
-- 🌱 I’m currently learning Power BI.
-- 👯 I’m looking to collaborate on data analytics or machine learning projects
+
 <!--
 **Cubin1215/Cubin1215** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
