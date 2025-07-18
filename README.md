@@ -1,13 +1,13 @@
 <h1 align="center">Hi there 👋 I'm Pranav Azad!</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-url/" target="_blank">
+  <a href="https://www.linkedin.com/in/pranavazad/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:pranavazad1215@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
-  <a href="https://github.com/your-github-username">
+  <a href="https://github.com/Cubin1215">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
 </p>
@@ -18,7 +18,7 @@
 
 I'm a passionate and competitive student at **Dickinson College**, pursuing a **double major in Data Analytics and Computer Science** and a **minor in Mathematics**. My journey in college has equipped me with a strong foundation in quantitative analysis and programming, pushing me further into the exciting realms of **Data Analytics** and **Data Science**.
 
-Currently, I'm immersed in fascinating **research** under the guidance of **Prof. Eren Bilen**, an Assistant Professor of Data Analytics at Dickinson College. My focus is on **building an AI model that mimics the human solving nature of Rubik's Cubes**. This involves developing **Artificial Neural Networks (ANNs)** specifically for different stages of the solve, such as **Cross, F2L, OLL, and PLL**, by training them solely on human solve data without explicit mathematical calculations. This project combines my love for data-driven solutions with a challenging, real-world problem.
+Currently, I'm immersed in fascinating **research** under the guidance of **Prof. Eren Bilen**, an Assistant Professor of Data Analytics at Dickinson College. My focus is on **building an AI model that mimics the human-solving nature of Rubik's Cubes**. This involves developing **Artificial Neural Networks (ANNs)** specifically for different stages of the solve, such as **Cross, F2L, OLL, and PLL**, by training them solely on human solve data without explicit mathematical calculations. This project combines my love for data-driven solutions with a challenging, real-world problem.
 
 I'm always eager to learn and apply my skills to new challenges, constantly seeking opportunities to grow as a data professional.
 
