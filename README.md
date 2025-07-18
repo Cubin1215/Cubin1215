@@ -14,7 +14,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="Waving Hand"> About Me
+## 👋 About Me
 
 I'm a passionate and competitive student at **Dickinson College**, pursuing a **double major in Data Analytics and Computer Science** and a **minor in Mathematics**. My journey in college has equipped me with a strong foundation in quantitative analysis and programming, pushing me further into the exciting realms of **Data Analytics** and **Data Science**.
 
@@ -24,57 +24,73 @@ I'm always eager to learn and apply my skills to new challenges, constantly seek
 
 ---
 
-## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/book/book-original.svg" alt="Education Icon" width="30" height="30"/> Education & Coursework
+## ⚙️ My Skillset
 
-Here are some of the key courses I've completed or am currently taking that are shaping my analytical and technical expertise:
-
-### Completed Courses:
-* Multivariable Calculus
-* Data Systems for Data Analytics
-* Introduction to Data Science
-* Object-Oriented Programming
-* Large Scale Open Source Software Development
-
-### Current Courses:
-* Statistics and Probability
-* Computing Abstractions
-* Linear Algebra
-* Macroeconomics
+<div align="center">
+  <table>
+    <tr>
+      <th style="padding: 0 10px; text-align: left; width: 25%;"><h4>💻 Languages</h4></th>
+      <th style="border-left: 1px solid #ccc; padding: 0 10px; text-align: left; width: 25%;"><h4>📊 Libraries & Frameworks</h4></th>
+      <th style="border-left: 1px solid #ccc; padding: 0 10px; text-align: left; width: 25%;"><h4>🛠️ Developer Tools</h4></th>
+      <th style="border-left: 1px solid #ccc; padding: 0 10px; text-align: left; width: 25%;"><h4>🗄️ Database Management</h4></th>
+    </tr>
+    <tr>
+      <td style="border-right: 1px solid #ccc; padding: 0 10px; vertical-align: top;">
+        <p align="left">
+          <img src="https://skillicons.dev/icons?i=py,sqlite&theme=light" alt="Python, SQL Icons"/><br>
+          <img src="https://skillicons.dev/icons?i=r,java&theme=light" alt="R, Java Icons"/><br>
+          <img src="https://skillicons.dev/icons?i=js,html&theme=light" alt="JavaScript, HTML Icons"/>
+        </p>
+      </td>
+      <td style="border-right: 1px solid #ccc; padding: 0 10px; vertical-align: top;">
+        <p align="left">
+          <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <br>
+          <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> <br>
+          <img src="https://img.shields.io/badge/Seaborn-000080?style=for-the-badge&logo=seaborn&logoColor=white"/> <br>
+          <img src="https://img.shields.io/badge/Matplotlib-003366?style=for-the-badge&logo=matplotlib&logoColor=white"/> <br>
+          <img src="https://img.shields.io/badge/Tkinter-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <br>
+          <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/> <br>
+          <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/> <br>
+          <img src="https://img.shields.io/badge/Playwright-4A4A4A?style=for-the-badge&logo=playwright&logoColor=white"/> <br>
+          <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/> <br>
+        </p>
+      </td>
+      <td style="border-right: 1px solid #ccc; padding: 0 10px; vertical-align: top;">
+        <p align="left">
+          <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/> <br>
+          <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/> <br>
+          <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white"/> <br>
+          <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <br>
+          <img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/> <br>
+          <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white"/> <br>
+          <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <br>
+          <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/> <br>
+          <img src="https://img.shields.io/badge/PyCharm-009688?style=for-the-badge&logo=pycharm&logoColor=white"/> <br>
+        </p>
+      </td>
+      <td style="padding: 0 10px; vertical-align: top;">
+        <p align="left">
+          <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <br>
+          <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> <br>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terminal/terminal-original.svg" alt="Skills Icon" width="30" height="30"/> My Skillset
-
-### 💻 Languages:
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=py,sql,r,java,js&theme=light" alt="Languages Icons"/>
-</p>
-
-### 📊 Libraries & Frameworks:
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=pandas,numpy,seaborn,matplotlib,tkinter&theme=light" alt="Libraries and Frameworks Icons"/>
-</p>
-
-### 🗄️ Applications & Tools:
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=excel,tableau,powerbi,docker,mysql,jupyter,linux,rstudio,vscode,eclipse,pycharm&theme=light" alt="Applications and Tools Icons"/>
-</p>
-
----
-
-## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/code.gif" width="30px" alt="Coding Animation"> Projects & Research
+## 💻 Projects & Research
 
 ### Rubik's Cube AI (Ongoing Research Project)
 * **Description:** Developing an AI model using Artificial Neural Networks (ANNs) to emulate human Rubik's cube solving strategies. The models are trained on human solve data to learn Cross, F2L, OLL, and PLL stages without explicit mathematical instructions.
 * **Technologies:** Python, TensorFlow (implied by ANNs), Pandas, NumPy
 * **Focus:** Machine Learning, Neural Networks, Data-driven modeling.
-* <p align="center">
-      <img src="https://media.giphy.com/media/L8VwlnELQG00Q/giphy.gif" alt="Rubik's Cube Solving Animation" width="200"/>
-    </p>
+
 
 ---
 
-## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/learning.gif" width="30px" alt="Learning Animation"> What I'm Learning & Looking For
+## 🌱 What I'm Learning & Looking For
 
 I'm currently diving deeper into advanced machine learning techniques, including deep learning and natural language processing.
 
