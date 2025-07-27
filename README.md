@@ -16,7 +16,7 @@
 
 ## 👋 About Me
 
-I'm a passionate and competitive student at **Dickinson College**, pursuing a **double major in Data Analytics and Computer Science** and a **minor in Mathematics**. My journey in college has equipped me with a strong foundation in quantitative analysis and programming, pushing me further into the exciting realms of **Data Analytics** and **Data Science**.
+I'm a passionate and competitive student at **Dickinson College**, pursuing a **double major in Data Analytics and Computer Science** and a **minor in Mathematics**. My journey in college has equipped me with a strong foundation in quantitative analysis and programming, pushing me further into the exciting realms of **Business Analytics** and **Data Science**.
 
 Currently, I'm immersed in fascinating **research** under the guidance of **Prof. Eren Bilen**, an Assistant Professor of Data Analytics at Dickinson College. My focus is on **building an AI model that mimics the human-solving nature of Rubik's Cubes**. This involves developing **Artificial Neural Networks (ANNs)** specifically for different stages of the solve, such as **Cross, F2L, OLL, and PLL**, by training them solely on human solve data without explicit mathematical calculations. This project combines my love for data-driven solutions with a challenging, real-world problem.
 
